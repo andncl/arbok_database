@@ -1,4 +1,4 @@
-# 🧪 PostgreSQL + MinIO Measurement Database (Nix Flake)
+# 🐍🧪 PostgreSQL + MinIO Measurement Database (Nix Flake)
 
 A reproducible development environment providing a **PostgreSQL measurement database** with **MinIO object storage**, designed for local experiments and data-driven workflows.
 
