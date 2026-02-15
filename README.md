@@ -1,4 +1,4 @@
-# 🐍🧪 arbok-database (nix flake)
+# arbok-database 🐍🧪 (nix flake)
 
 A reproducible development environment providing a **PostgreSQL measurement database** with **MinIO object storage**, designed for local experiments and data-driven workflows.
 
